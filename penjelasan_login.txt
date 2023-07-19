@@ -1,0 +1,18 @@
+untuk loginnya :
+saya membuat login menggunakan 2 level yaitu level admin dan user 
+untuk loginnya tersendiri menggunakan 1 tampilan login aja 
+jadi loginya itu membaca jika dia admin maka akan di arahkan ke halaman admi/index.php 
+dan jika dia login dengan level user maka akan amasuk ke tampilan pelanggan/index.php 
+
+dan untuk akun admin menggunakan :
+
+ADMIN
+username : admin
+password : admin
+
+atau 
+username : reynaldo12
+password : reynaldo12
+
+
+user namanya boleh daftar sendiri .
